@@ -90,18 +90,6 @@ An interactive platform for learning Java with an extensive program library and 
 - **Features:** 500+ pre-built Java programs, in-browser compilation and execution, learning-focused interface
 - 🔗 [View Project](YOUR_PROJECT_LINK_2)
 
----
-
-### 🤖 ArthMitra
-**Agentic AI Financial Literacy Multi-Agent System**
-
-An intelligent financial literacy chatbot system built with multiple specialized agents for comprehensive financial guidance.
-
-- **Tech:** LangChain, AI Agents, FastAPI
-- **Event:** Built during Nomura KakushIN Hackathon
-- **Features:** Multi-agent architecture, financial literacy education, AI-powered responses
-- 🔗 [View Project](YOUR_PROJECT_LINK_3)
-
 </div>
 
 ---
@@ -110,11 +98,11 @@ An intelligent financial literacy chatbot system built with multiple specialized
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsupath&theme=radical&show_icons=true&hide_border=true&count_private=true)](https://github.com/ayushsupath)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical&hide_border=true)](https://github.com/YOUR_GITHUB_USERNAME)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushsupath&theme=radical&hide_border=true)](https://github.com/ayushsupath)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&theme=radical&show_icons=true&hide_border=true&layout=compact)](https://github.com/YOUR_GITHUB_USERNAME)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsupath&theme=radical&show_icons=true&hide_border=true&layout=compact)](https://github.com/ayushsupath)
 
 </div>
 
@@ -124,10 +112,9 @@ An intelligent financial literacy chatbot system built with multiple specialized
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/YOUR_TWITTER_HANDLE)
+[![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsupath/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://portfolio-rust-eta-76.vercel.app/)
 
 </div>
 
