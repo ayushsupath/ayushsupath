@@ -2,7 +2,7 @@
 
 # 👋 Ayush Supath
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MCA+Student+%7C+SGSITS+Indore;Full-Stack+%7C+Frontend+%7C+ML+Enthusiast;First+in+Family+in+Software+Engineering" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Aspiring+Software+Engineer;MCA+Student+%7C+SGSITS+Indore;Full-Stack+%7C+Frontend+%7C+ML+Enthusiast" alt="Typing SVG" />
 
 </div>
 
