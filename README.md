@@ -77,7 +77,7 @@ A production-ready resume builder leveraging AI to help users create professiona
 - **Tech:** React, Node.js, Express, MySQL, Groq/LLaMA
 - **Deployment:** Vercel (Frontend), Render & Railway (Backend)
 - **Features:** AI-powered content suggestions, real-time preview, multiple templates
-- 🔗 [View Project](YOUR_PROJECT_LINK_1)
+- 🔗 [View Project](https://github.com/ayushsupath/smart-resume-builder.git)
 
 ---
 
@@ -88,7 +88,7 @@ An interactive platform for learning Java with an extensive program library and 
 
 - **Tech:** Spring Boot, Monaco Editor, Java
 - **Features:** 500+ pre-built Java programs, in-browser compilation and execution, learning-focused interface
-- 🔗 [View Project](YOUR_PROJECT_LINK_2)
+- 🔗 [View Project](https://github.com/ayushsupath/codejamm.git)
 
 </div>
 
