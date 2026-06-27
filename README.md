@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Aspiring+Software+Engineer;MCA+Student+%7C+SGSITS+Indore;Agentic+AI+%26+ML+Enthusiast;Open+to+Opportunities!" alt="Typing SVG" />
 
-**🎓 MCA Student** @ SGSITS Indore | **💼 Actively Seeking Roles** | **🚀 Full-Stack · AI/ML · Agentic AI**
+**🎓 MCA Student** @ SGSITS Indore | **💼 Actively Seeking Roles** | **🚀 Full-Stack · AI/ML Developer**
 
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsupath/)
@@ -19,10 +19,8 @@
 
 I'm a **Full-Stack Developer** and aspiring software engineer with hands-on experience in web development, machine learning, and agentic AI systems. Currently pursuing my **MCA** at SGSITS Indore while building production-ready projects and actively seeking **Frontend / Full-Stack / Software Engineer** roles.
 
-- 🤖 Built **agentic AI multi-agent systems** using LangChain, LangGraph & CrewAI
-- 🏆 **Hackathon Participant** — Nomura KakushIN Hackathon (Team Alpha)
 - 🧠 **ML Internship** @ Skillbit Technologies — 2 production models, 93–98% accuracy
-- ⚡ Comfortable across the stack: React → Node.js/FastAPI → MySQL/MongoDB
+- ⚡ Comfortable across the stack: React → Node.js / FastAPI → MySQL / MongoDB
 - 🎓 First in my family to pursue a career in software engineering
 
 ---
@@ -89,70 +87,109 @@ Built two production-grade ML models end-to-end — data preprocessing, feature 
 
 ## 🚀 Featured Projects
 
-### 💰 ArthMitra — Agentic AI Financial Literacy Platform
-**Multi-Agent System** | [Repository](https://github.com/ayushsupath/arthmitra) | 🏆 *Nomura KakushIN Hackathon (Team Alpha)*
+<div align="center">
 
-An agentic AI platform that uses multiple specialized AI agents to deliver personalized financial guidance and literacy support.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,2,5,30&height=3&section=header"/>
+</picture>
 
-- **Tech Stack:** Python · FastAPI · LangGraph · CrewAI · LangChain · Groq/LLaMA
-- **Key Features:**
-  - 🤖 Multi-agent orchestration for parallel financial reasoning
-  - 📊 Personalized financial advice engine
-  - 🧠 Agentic memory and tool-use pipelines
-  - ⚡ Built under hackathon pressure as Team Alpha
+</div>
 
 ---
 
-### 📝 Smart Resume Builder — AI-Powered Resume Platform
-**Full-Stack MERN Application** | [Repository](https://github.com/ayushsupath/smart-resume-builder)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An intelligent resume builder that uses Groq/LLaMA to generate and improve resume content in real-time.
+### 📝 Smart Resume Builder
+**AI-Powered Full-Stack App**
 
-- **Tech Stack:** React · Node.js · Express.js · MySQL · Groq/LLaMA API
-- **Deployment:** Vercel (Frontend) · Render & Railway (Backend)
-- **Key Features:**
-  - 🤖 AI-powered content suggestions via LLM
-  - 📑 Real-time preview with multiple templates
-  - 📥 PDF download support
-  - 💾 Persistent storage with MySQL
+> An intelligent resume builder using Groq/LLaMA to generate and improve content in real-time.
 
----
+**🔗 [View Repository](https://github.com/ayushsupath/smart-resume-builder)**
 
-### 💻 CodeJamm — Java Learning Platform
-**Browser-Based IDE** | [Repository](https://github.com/ayushsupath/codejamm)
+**Stack:**
+`React` `Node.js` `Express.js` `MySQL` `Groq/LLaMA`
 
-An interactive platform with 500+ Java programs and in-browser code execution for beginners learning Java.
+**Deploy:** Vercel · Render · Railway
 
-- **Tech Stack:** Spring Boot · Monaco Editor · Java · HTML/CSS/JS
-- **Key Features:**
-  - 📚 500+ categorized, searchable Java programs
-  - ⚡ In-browser compilation and execution
-  - 🎓 Explanation-first, learning-focused UI
+✨ AI content suggestions via LLM  
+📑 Real-time resume preview  
+🎨 Multiple professional templates  
+📥 PDF download support  
 
----
+</td>
+<td width="50%" valign="top">
+
+### 💻 CodeJamm
+**Java Learning Platform**
+
+> Browser-based IDE with 500+ Java programs and real-time in-browser code execution for beginners.
+
+**🔗 [View Repository](https://github.com/ayushsupath/codejamm)**
+
+**Stack:**
+`Spring Boot` `Monaco Editor` `Java` `HTML/CSS/JS`
+
+📚 500+ categorized Java programs  
+⚡ In-browser compile & execute  
+🔍 Searchable program library  
+🎓 Learning-first UI with explanations  
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
 ### 🏫 School Management System
-**Python + Streamlit Web App** | [Repository](https://github.com/ayushsupath/School-Management-System-in-Python)
+**Python + Streamlit Web App**
 
-A full-featured school admin system built with Python OOP principles and a clean Streamlit interface.
+> Full-featured school admin panel with dashboards, student/teacher management, and grade tracking.
 
-- **Tech Stack:** Python · Streamlit · OOP · JSON Storage
-- **Key Features:** Student & teacher management, grade tracking, data visualization dashboards
+**🔗 [View Repository](https://github.com/ayushsupath/School-Management-System-in-Python)**
 
----
+**Stack:**
+`Python` `Streamlit` `OOP` `JSON`
 
-### 🌸 Iris & Spam Classifiers — ML Internship Projects
-**ML Models** | [Iris](https://github.com/ayushsupath/iris-classification) · [Spam](https://github.com/ayushsupath/Spam-Email-Classifier)
+👨‍🎓 Student & teacher registration  
+📈 Grade tracking & reporting  
+📊 Data visualization dashboards  
+💾 Persistent JSON storage  
 
-Two production ML models built during internship with high accuracy and full documentation.
+</td>
+<td width="50%" valign="top">
 
-- **Technologies:** Scikit-learn · Pandas · NumPy · Python
+### 🌸 ML Classifiers
+**Iris & Spam — Internship Projects**
 
----
+> Two production ML models with 93–98% accuracy built at Skillbit Technologies internship.
 
-### 📁 Other Projects
-- **[File Handling Project](https://github.com/ayushsupath/file_handling_project)** — CRUD file manager with Streamlit UI
-- **[Python Projects](https://github.com/ayushsupath/Python_projects)** — ATM Simulator, Password Generator, Grade Calculator & more
+**🔗 [Iris Repo](https://github.com/ayushsupath/iris-classification) · [Spam Repo](https://github.com/ayushsupath/Spam-Email-Classifier)**
+
+**Stack:**
+`Scikit-learn` `Pandas` `NumPy` `Python`
+
+🌸 Iris Classifier → **93.33%** accuracy  
+📧 Spam Classifier → **98.21%** accuracy  
+🔬 Random Forest + Naive Bayes + TF-IDF  
+📄 Full documentation & evaluation  
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary>📁 <b>More Projects</b></summary>
+<br>
+
+| Project | Description | Tech |
+|---------|-------------|------|
+| [File Handling Project](https://github.com/ayushsupath/file_handling_project) | CRUD file manager with web UI | Python · Streamlit |
+| [Python Projects](https://github.com/ayushsupath/Python_projects) | ATM Simulator, Password Generator, Grade Calculator | Python |
+| [Pandas Practice](https://github.com/ayushsupath/Pandas_Practice) | Daily pandas exercises & data manipulation | Pandas |
+| [NumPy Practice](https://github.com/ayushsupath/Numpy_practice) | Array operations & linear algebra | NumPy |
+
+</details>
 
 ---
 
@@ -160,11 +197,25 @@ Two production ML models built during internship with high accuracy and full doc
 
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=header&text=My+GitHub+Activity&fontSize=28&fontColor=00D9FF&animation=twinkling&fontAlignY=65" />
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsupath&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayushsupath&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsupath&theme=radical&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00D9FF)
+
+<br>
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayushsupath&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ayushsupath/ayushsupath/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ayushsupath/ayushsupath/output/github-snake.svg" />
+  <img alt="github contribution snake" src="https://raw.githubusercontent.com/ayushsupath/ayushsupath/output/github-snake.svg" />
+</picture>
 
 </div>
 
@@ -203,5 +254,7 @@ Two production ML models built during internship with high accuracy and full doc
 💬 *Feel free to reach out for job opportunities, collaborations, or just a good tech conversation!*
 
 **Last Updated:** June 2026 | Made with ❤️ by Ayush Supath
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" />
 
 </div>
