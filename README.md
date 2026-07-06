@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:7C3AED&height=180&section=header&text=Ayush%20Supath&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Building%20with%20code%20%2B%20AI&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://raw.githubusercontent.com/ayushsupath/ayushsupath/main/banner.svg" alt="Ayush Supath" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Full-Stack+Developer;Building+AI-powered+pipelines+%26+agents;MCA+Student+%40+SGSITS+Indore;Open+to+Frontend+%2F+Full-Stack+Roles" alt="Typing SVG" />
+<br>
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsupath/)
@@ -11,25 +11,11 @@
 
 </div>
 
----
-
-### 🧭 Quick Facts
-
-```text
-const ayush = {
-  role: "Full-Stack Developer & Aspiring Software Engineer",
-  currentlyAt: "MCA @ SGSITS Indore (2025–2027)",
-  interests: ["Agentic AI", "System Design", "React internals", "LLM tooling"],
-  status: "Actively interviewing for Frontend / Full-Stack / SWE roles",
-  funFact: "First in my family to build a career in software engineering"
-};
-```
-
----
+<br>
 
 ## 🚀 Featured Work
 
-> Picking three projects that best show range — from a YC-startup-grade AI tool, to a hackathon build, to a production ML internship.
+> Three projects that show range — a YC-startup-grade AI tool, a hackathon build under time pressure, and a production ML internship.
 
 <table>
 <tr>
@@ -44,7 +30,7 @@ Built for a technical assessment for **VectorShift**, a YC-backed AI startup —
 
 - 🔗 Custom draggable/connectable node graph UI
 - ⚙️ FastAPI backend validating pipeline structure (DAG checks)
-- 🧠 Designed to mirror real production visual-AI-builder tools
+- 🧠 Mirrors real production visual-AI-builder tools
 
 </td>
 <td width="50%" valign="top">
@@ -52,11 +38,11 @@ Built for a technical assessment for **VectorShift**, a YC-backed AI startup —
 ### 💰 ArthMitra
 **Multi-agent financial literacy system**
 
-Built at the **Nomura KakushIN Hackathon** with Team Alpha — a system of cooperating AI agents that make financial literacy concepts accessible in plain language.
+Built at the **Nomura KakushIN Hackathon** with Team Alpha — cooperating AI agents that make financial literacy concepts accessible in plain language.
 
 **Stack:** `Multi-Agent Architecture` `LLMs` `Python`
 
-- 🤝 Team project (with Astha Soni) under real hackathon time pressure
+- 🤝 Team project (with Astha Soni) under hackathon time pressure
 - 🧮 Agents specialize in explaining, simplifying, and cross-checking financial concepts
 - 🏆 Built end-to-end in a competitive hackathon environment
 
@@ -107,7 +93,7 @@ A team project (with Dheerendra Mishra & Adarsh Dwivedi) — an in-browser Java 
 
 </details>
 
----
+<br>
 
 ## 💻 Tech Stack
 
@@ -152,7 +138,7 @@ A team project (with Dheerendra Mishra & Adarsh Dwivedi) — an in-browser Java 
 
 </div>
 
----
+<br>
 
 ## 🏆 Experience
 
@@ -167,19 +153,19 @@ Built two production-ready classification models end-to-end — preprocessing, f
 **Full Stack Development Trainer · Angel Wallah** *(Part-time)*
 Teaching full-stack web development fundamentals while continuing my own coursework and project work.
 
----
+<br>
 
 ## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayushsupath&theme=radical&show_icons=true&hide_border=true&count_private=true&bg_color=0d1117&title_color=00D9FF&text_color=ffffff)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsupath&theme=radical&show_icons=true&hide_border=true&layout=compact&bg_color=0d1117&title_color=00D9FF)
+<!-- Self-generated via GitHub Actions (.github/workflows/metrics.yml) — does not depend on
+     the public github-readme-stats.vercel.app service, which is frequently rate-limited or down. -->
+<img src="https://raw.githubusercontent.com/ayushsupath/ayushsupath/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ayushsupath&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF)](https://git.io/streak-stats)
 
-<sub>Streak card uses <code>streak-stats.demolab.com</code> — the current maintained host (the old <code>herokuapp.com</code> domain lost free hosting and is unreliable).</sub>
+<sub>Streak card uses <code>streak-stats.demolab.com</code>, the current maintained host. The metrics image above is generated and committed by a GitHub Action, so it never depends on a third-party service being online.</sub>
 
 <br><br>
 
@@ -187,7 +173,7 @@ Teaching full-stack web development fundamentals while continuing my own coursew
 
 </div>
 
----
+<br>
 
 ## 🎓 Education
 
@@ -196,7 +182,7 @@ Teaching full-stack web development fundamentals while continuing my own coursew
 | **MCA** | SGSITS Indore | 2025–2027 | 🟢 Pursuing |
 | **BSc (Computer Science)** | Medicaps University | 2022–2025 | ✅ Completed |
 
----
+<br>
 
 ## 🌱 Right Now
 
@@ -205,12 +191,10 @@ Teaching full-stack web development fundamentals while continuing my own coursew
 - 💪 Grinding **LeetCode** — arrays, strings, two-pointer, hashmaps
 - 🛠️ Polishing production-grade projects for interviews
 
----
+<br>
 
 <div align="center">
 
 💬 Reach out for roles, collaborations, or just to talk shop.
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,100:00D9FF&height=100&section=footer"/>
 
 </div>
