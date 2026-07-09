@@ -4,12 +4,26 @@
 
 <br>
 
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Agentic+AI+Systems;Open+to+Frontend+%2F+Full+Stack+Roles" alt="Typing SVG" />
+</a>
+
+<br><br>
+
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsupath/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-rust-eta-76.vercel.app/)
 [![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ayushsupath)
 
 </div>
+
+<br>
+
+## 👋 About Me
+
+I'm **Ayush Supath**, an MCA student at **SGSITS Indore**, currently working as a **Full Stack Development Trainer** and previously an **ML Intern at Skillbit Technologies**. I like building things end-to-end — from a resume builder that talks to an LLM, to a visual AI pipeline editor, to multi-agent systems that explain finance in plain language.
+
+Right now I'm **actively looking for Frontend / Full-Stack / Software Engineer roles** — feel free to reach out if you're hiring or just want to talk shop.
 
 <br>
 
@@ -169,6 +183,10 @@ Teaching full-stack web development fundamentals while continuing my own coursew
 
 <br><br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=ayushsupath&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%"/>
+
+<br><br>
+
 ![Profile Views](https://komarev.com/ghpvc/?username=ayushsupath&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
 
 </div>
@@ -195,6 +213,12 @@ Teaching full-stack web development fundamentals while continuing my own coursew
 
 <div align="center">
 
-💬 Reach out for roles, collaborations, or just to talk shop.
+### 💬 Let's Connect
+
+Reach out for roles, collaborations, or just to talk shop.
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ayushsupath/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portfolio-rust-eta-76.vercel.app/)
 
 </div>
