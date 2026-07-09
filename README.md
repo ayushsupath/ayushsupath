@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/ayushsupath/ayushsupath/main/banner.svg" alt="Ayush Supath" width="100%"/>
+<!-- <img src="https://raw.githubusercontent.com/ayushsupath/ayushsupath/main/banner.svg" alt="Ayush Supath" width="100%"/> -->
 
 <br>
 
