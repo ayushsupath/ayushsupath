@@ -4,6 +4,8 @@
 
 <br>
 
+# Ayush Supath
+
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;Building+Agentic+AI+Systems;Open+to+Frontend+%2F+Full+Stack+Roles" alt="Typing SVG" />
 </a>
@@ -29,7 +31,7 @@ Right now I'm **actively looking for Frontend / Full-Stack / Software Engineer r
 
 ## 🚀 Featured Work
 
-> Three projects that show range — a YC-startup-grade AI tool, a hackathon build under time pressure, and a production ML internship.
+> Projects that show range — a YC-startup-grade AI tool, a production LLM app, and a team-built learning platform.
 
 <table>
 <tr>
@@ -49,22 +51,6 @@ Built for a technical assessment for **VectorShift**, a YC-backed AI startup —
 </td>
 <td width="50%" valign="top">
 
-### 💰 ArthMitra
-**Multi-agent financial literacy system**
-
-Built at the **Nomura KakushIN Hackathon** with Team Alpha — cooperating AI agents that make financial literacy concepts accessible in plain language.
-
-**Stack:** `Multi-Agent Architecture` `LLMs` `Python`
-
-- 🤝 Team project (with Astha Soni) under hackathon time pressure
-- 🧮 Agents specialize in explaining, simplifying, and cross-checking financial concepts
-- 🏆 Built end-to-end in a competitive hackathon environment
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 ### 📝 Smart Resume Builder
 **AI-powered full-stack app — my flagship project**
 
@@ -76,7 +62,9 @@ Started as my BCA final-year project at IIPS-DAVV, since evolved into a producti
 **🔗 [View Repository](https://github.com/ayushsupath/smart-resume-builder)**
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
 ### 💻 CodeJamm
 **Browser-based Java learning IDE**
@@ -166,30 +154,6 @@ Built two production-ready classification models end-to-end — preprocessing, f
 
 **Full Stack Development Trainer · Angel Wallah** *(Part-time)*
 Teaching full-stack web development fundamentals while continuing my own coursework and project work.
-
-<br>
-
-## 📊 GitHub Activity
-
-<div align="center">
-
-<!-- Self-generated via GitHub Actions (.github/workflows/metrics.yml) — does not depend on
-     the public github-readme-stats.vercel.app service, which is frequently rate-limited or down. -->
-<img src="https://raw.githubusercontent.com/ayushsupath/ayushsupath/main/github-metrics.svg" alt="GitHub Metrics" width="100%"/>
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushsupath&theme=radical&hide_border=true&background=0d1117&stroke=00D9FF)](https://git.io/streak-stats)
-
-<sub>Streak card uses <code>streak-stats.demolab.com</code>, the current maintained host. The metrics image above is generated and committed by a GitHub Action, so it never depends on a third-party service being online.</sub>
-
-<br><br>
-
-<img src="https://github-profile-trophy.vercel.app/?username=ayushsupath&theme=radical&no-frame=true&row=1&column=6" alt="GitHub Trophies" width="100%"/>
-
-<br><br>
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayushsupath&color=00D9FF&style=for-the-badge&label=PROFILE+VIEWS)
-
-</div>
 
 <br>
 
