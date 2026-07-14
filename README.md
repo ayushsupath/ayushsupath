@@ -98,24 +98,6 @@ https://github.com/ayushsupath/codejamm
 
 ---
 
-## 🤖 Machine Learning Projects
-
-### 🌸 Iris Flower Classification
-
-✔ Random Forest
-
-✔ Accuracy **93.33%**
-
----
-
-### 📧 Spam Email Classifier
-
-✔ Naive Bayes
-
-✔ TF-IDF
-
-✔ Accuracy **98.21%**
-
 ---
 
 # 💼 Experience
