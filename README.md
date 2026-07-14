@@ -1,27 +1,246 @@
-# 💫 About Me:
-## 👋 About Me<br><br>Hi, I'm **Ayush Supath** 👋<br><br>🎓 I'm currently pursuing a **Master of Computer Applications (MCA)** at **SGSITS, Indore**, with a strong passion for building modern web applications and AI-powered software.<br><br>💻 I enjoy developing **full-stack applications** using **React, Node.js, Express, FastAPI, Spring Boot, and MySQL**, while also exploring **Generative AI**, **Machine Learning**, and **Agentic AI Systems**.<br><br>🚀 Over the past few years, I've built projects ranging from an **AI-powered Resume Builder**, a **Visual AI Pipeline Builder**, and a **Java Learning Platform** to several machine learning applications. These experiences have strengthened my skills in designing scalable applications, integrating AI models, and solving real-world problems.<br><br>👨‍🏫 Alongside my studies, I work as a **Full Stack Development Trainer**, mentoring students in modern web development. I also completed a **Machine Learning Internship at Skillbit Technologies**, where I developed and evaluated ML models for real-world classification tasks.<br><br>🌱 I'm continuously improving my problem-solving skills through **LeetCode**, learning advanced backend architecture, and exploring **LangChain**, **LangGraph**, **CrewAI**, and multi-agent AI systems.<br><br>🎯 I'm actively looking for **Frontend Developer**, **Full Stack Developer**, and **Software Engineer** opportunities where I can contribute, learn from experienced engineers, and build impactful products.
+<h1 align="center">Hi 👋, I'm Ayush Supath</h1>
 
+<h3 align="center">
+Full Stack Developer • AI Enthusiast • MCA Student @ SGSITS Indore
+</h3>
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ayush.supath/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ayushsupath/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com) 
+<p align="center">
+Passionate about building scalable web applications, AI-powered products, and solving real-world problems through code.
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ayushsupath&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ayushsupath&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ayushsupath&theme=nightowl&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=ayushsupath&theme=dark&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ayushsupath&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=23&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer;AI+%2F+ML+Enthusiast;React+%7C+Node.js+%7C+FastAPI;Building+Agentic+AI+Systems;Open+to+Software+Engineer+Roles" />
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=ayushsupath&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+# 👨‍💻 About Me
+
+🎓 Currently pursuing **Master of Computer Applications (MCA)** from **SGSITS, Indore**
+
+💼 Working as a **Full Stack Development Trainer**
+
+🤖 Former **Machine Learning Intern** at **Skillbit Technologies**
+
+💻 Passionate about building **Full Stack Applications**, **AI-powered Products**, and **Backend Systems**
+
+🚀 Experienced with **React, Node.js, Express, FastAPI, Spring Boot, MySQL, MongoDB**, and modern web technologies
+
+🧠 Exploring **Generative AI**, **LangChain**, **LangGraph**, **CrewAI**, and **Agentic AI Systems**
+
+🌱 Continuously improving through **LeetCode**, personal projects, and open-source contributions
+
+🎯 Currently looking for **Frontend Developer**, **Full Stack Developer**, and **Software Engineer** opportunities.
+
+---
+
+# 🚀 Featured Projects
+
+## 📝 Smart Resume Builder (Flagship Project)
+
+> AI-powered Resume Builder with intelligent resume analysis.
+
+### Features
+
+- 🤖 AI Resume Improver
+- 📊 ATS Score Checker
+- 📄 PDF Resume Analyzer
+- 🔐 JWT Authentication
+- 🌙 Dark Mode
+- 📱 Fully Responsive UI
+
+**Tech Stack**
+
+React • Node.js • Express • MySQL • Groq API • LLaMA 3.3
+
+🔗 Repository:
+https://github.com/ayushsupath/smart-resume-builder
+
+---
+
+## 🧩 VectorShift Pipeline Builder
+
+A visual drag-and-drop AI workflow editor inspired by modern no-code AI platforms.
+
+### Features
+
+- React Flow based node editor
+- Dynamic node connections
+- FastAPI backend
+- DAG Validation
+- Python backend
+
+**Tech Stack**
+
+React Flow • TypeScript • FastAPI • Python
+
+---
+
+## 💻 CodeJamm
+
+A browser-based Java Learning Platform with an integrated Java compiler.
+
+### Features
+
+- Online Java Compiler
+- Monaco Editor
+- 100+ Java Programs
+- REST APIs
+- Beginner Friendly
+
+**Tech Stack**
+
+Java • Spring Boot • MySQL • Monaco Editor
+
+🔗 Repository
+
+https://github.com/ayushsupath/codejamm
+
+---
+
+## 🤖 Machine Learning Projects
+
+### 🌸 Iris Flower Classification
+
+✔ Random Forest
+
+✔ Accuracy **93.33%**
+
+---
+
+### 📧 Spam Email Classifier
+
+✔ Naive Bayes
+
+✔ TF-IDF
+
+✔ Accuracy **98.21%**
+
+---
+
+# 💼 Experience
+
+## 👨‍🏫 Full Stack Development Trainer
+
+**Angel Wallah**
+
+- Mentored students in Full Stack Development
+- Conducted practical coding sessions
+- Guided students on real-world projects
+- Covered React, Node.js, Express, MongoDB, MySQL
+
+---
+
+## 🤖 Machine Learning Intern
+
+**Skillbit Technologies**
+
+Worked on end-to-end Machine Learning projects involving
+
+- Data Cleaning
+- Feature Engineering
+- Model Training
+- Model Evaluation
+- Python Automation
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss)
+
+### Backend
+
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+
+### Databases
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+
+### AI / ML
+
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-5A4FCF?style=for-the-badge)
+![CrewAI](https://img.shields.io/badge/CrewAI-EA4335?style=for-the-badge)
+
+### Tools
+
+Git • GitHub • Docker • Postman • VS Code • AWS • Vercel • Render
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushsupath&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsupath&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=ayushsupath&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="mailto:ayushsupath1829@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/ayushsupath/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://portfolio-rust-eta-76.vercel.app/">
+<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome"/>
+</a>
+
+<a href="https://github.com/ayushsupath">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+![](https://komarev.com/ghpvc/?username=ayushsupath&style=for-the-badge)
+
+</p>
+
+<p align="center">
+
+⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
+
+</p>
