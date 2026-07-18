@@ -58,21 +58,6 @@ https://github.com/ayushsupath/smart-resume-builder
 
 ---
 
-## 🧩 VectorShift Pipeline Builder
-
-A visual drag-and-drop AI workflow editor inspired by modern no-code AI platforms.
-
-### Features
-
-- React Flow based node editor
-- Dynamic node connections
-- FastAPI backend
-- DAG Validation
-- Python backend
-
-**Tech Stack**
-
-React Flow • TypeScript • FastAPI • Python
 
 ---
 
