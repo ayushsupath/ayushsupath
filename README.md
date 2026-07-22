@@ -79,10 +79,7 @@ Git • GitHub • Docker • Postman • VS Code • AWS • Vercel • Render 
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayushsupath&show_icons=true&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushsupath&layout=compact&theme=tokyonight" height="165"/>
-</p>
+
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ayushsupath&theme=tokyonight" alt="streak stats" />
 </p>
