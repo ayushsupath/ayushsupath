@@ -42,7 +42,7 @@ Building scalable web apps and AI-powered products — one commit at a time. Act
 
 ### 💼 Experience
 
-**Software Engineer Intern** — Ideactra Technologies *(Current)*
+**Software Engineer Intern** — Ideactra Technologies
 - Working on real-world software engineering tasks in a remote setup
 
 **Full Stack Development Trainer** — Angel Wallah
