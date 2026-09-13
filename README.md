@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ayush Supath</h1>
-<h3 align="center">Full Stack Developer | Aspiring AI/ML Engineer | MCA @ SGSITS Indore</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | MCA @ SGSITS Indore</h3>
 
 <p align="center">
 Building scalable web apps and AI-powered products — one commit at a time. Actively looking for Frontend / Full Stack / SWE roles 🚀
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+AI%2FML+Enthusiast;React.js+%2B+Node.js+%2B+FastAPI;Building+Agentic+AI+Systems;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+ML+%2B+AI+Enthusiast;React.js+%2B+Python+%2B+FastAPI;Building+Agentic+AI+Systems;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
 ---
@@ -14,10 +14,11 @@ Building scalable web apps and AI-powered products — one commit at a time. Act
 ### 👨‍💻 About Me
 
 - 🎓 Pursuing **MCA** at **SGSITS, Indore** (previously B.Sc. Computer Science @ Medicaps University)
-- 💻 Currently working as a **Software Engineer Intern** @ Ideactra Technologies
+- 💻 Software Engineer Intern @ Ideactra Technologies
 - 💼 Previously **Full Stack Development Trainer** @ Angel Wallah — mentored students on React, Node.js, Express, MongoDB, MySQL
-- 🤖 Former **Machine Learning Intern** @ Skillbit Technologies
+- 🤖 Former **Machine Learning Intern** @ Skillbit Technologies — built and deployed ML models end-to-end
 - 🧠 Building **agentic AI systems** with LangChain, LangGraph, CrewAI, and LLM APIs (Groq, LLaMA)
+- 📊 Comfortable across the **ML workflow**: data cleaning, feature engineering, model training & evaluation with Scikit-learn, Pandas & NumPy
 - 📈 Actively solving DSA on **LeetCode** (Algorithms + Pandas tracks)
 - 📜 Completed **Generative AI Certification** (LinkedIn Learning)
 - 🎯 Currently looking for **Frontend Developer**, **Full Stack Developer**, and **Software Engineer** roles — especially at early-stage/YC startups
@@ -67,10 +68,10 @@ Building scalable web apps and AI-powered products — one commit at a time. Act
 ![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
 
 **Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-**AI / ML**
-![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-5A4FCF?style=for-the-badge) ![CrewAI](https://img.shields.io/badge/CrewAI-EA4335?style=for-the-badge)
+**Machine Learning / AI**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-5A4FCF?style=for-the-badge) ![CrewAI](https://img.shields.io/badge/CrewAI-EA4335?style=for-the-badge)
 
 **Tools**
 Git • GitHub • Docker • Postman • VS Code • AWS • Vercel • Render • Claude Code / Cursor
@@ -78,7 +79,6 @@ Git • GitHub • Docker • Postman • VS Code • AWS • Vercel • Render 
 ---
 
 ### 📊 GitHub Stats
-
 
 <p align="left">
   <img src="https://streak-stats.demolab.com?user=ayushsupath&theme=tokyonight" alt="streak stats" />
