@@ -1,101 +1,77 @@
 <h1 align="center">Hi 👋, I'm Ayush Supath</h1>
-<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | MCA @ SGSITS Indore</h3>
+<h3 align="center">Full Stack Developer | Machine Learning Enthusiast | AI Builder</h3>
 
 <p align="center">
-Building scalable web apps and AI-powered products — one commit at a time. Actively looking for Frontend / Full Stack / SWE roles 🚀
+  Building scalable web apps and agentic AI systems — one commit at a time. <br/>
+  <i>Actively looking for Frontend / Full Stack / SWE roles 🚀</i>
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Full+Stack+Developer+%7C+ML+%2B+AI+Enthusiast;React.js+%2B+Python+%2B+FastAPI;Building+Agentic+AI+Systems;Open+to+Work+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
 
+<div align="center">
+  <a href="mailto:ayushsupath1829@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://www.linkedin.com/in/ayushsupath/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="https://portfolio-rust-eta-76.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome" alt="Portfolio" /></a>
+  <a href="https://leetcode.com/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" alt="LeetCode" /></a>
+</div>
+
 ---
 
 ### 👨‍💻 About Me
 
-- 🎓 Pursuing **MCA** at **SGSITS, Indore** (previously B.Sc. Computer Science @ Medicaps University)
-- 💻 Software Engineer Intern @ Ideactra Technologies
-- 💼 Previously **Full Stack Development Trainer** @ Angel Wallah — mentored students on React, Node.js, Express, MongoDB, MySQL
-- 🤖 Former **Machine Learning Intern** @ Skillbit Technologies — built and deployed ML models end-to-end
-- 🧠 Building **agentic AI systems** with LangChain, LangGraph, CrewAI, and LLM APIs (Groq, LLaMA)
-- 📊 Comfortable across the **ML workflow**: data cleaning, feature engineering, model training & evaluation with Scikit-learn, Pandas & NumPy
-- 📈 Actively solving DSA on **LeetCode** (Algorithms + Pandas tracks)
-- 📜 Completed **Generative AI Certification** (LinkedIn Learning)
-- 🎯 Currently looking for **Frontend Developer**, **Full Stack Developer**, and **Software Engineer** roles — especially at early-stage/YC startups
+- 🎓 Pursuing **MCA** at **SGSITS, Indore** *(previously B.Sc. CS @ Medicaps University)*
+- 💼 Currently: **Software Engineer Intern** @ Ideactra Technologies
+- 🧠 Exploring & Building: **Agentic AI systems** using LangChain, LangGraph, CrewAI, and LLMs (Groq, LLaMA)
+- 📈 Problem Solving: Actively grinding DSA on **LeetCode** (Algorithms + Pandas) & earned the **100 Days Badge**
+- 🎯 Goals: Looking for **Frontend / Full Stack / Software Engineer** roles, especially at early-stage/YC startups!
 
 ---
 
 ### 🚀 Featured Projects
 
-**📝 [Smart Resume Builder](https://github.com/ayushsupath/smart-resume-builder)** — Flagship Project
-> AI-powered resume builder with ATS scoring, resume analysis, and JWT auth. Deployed on Vercel/Render/Railway.
-`React` `Node.js` `Express` `MySQL` `Groq API` `LLaMA 3.3`
-
-**💻 [CodeJamm](https://github.com/ayushsupath/codejamm)**
-> Browser-based Java learning platform with an integrated online compiler and 100+ practice programs.
-`Java` `Spring Boot` `MySQL` `Monaco Editor`
-
-**🌐 [Portfolio](https://github.com/ayushsupath/portfolio)**
-> Personal portfolio site — [Live](https://portfolio-rust-eta-76.vercel.app/)
-`React` `TypeScript` `Vite`
+| 📝 [Smart Resume Builder](https://github.com/ayushsupath/smart-resume-builder) | 💻 [CodeJamm](https://github.com/ayushsupath/codejamm) | 🌐 [Personal Portfolio](https://github.com/ayushsupath/portfolio) |
+| :--- | :--- | :--- |
+| AI-powered resume builder with ATS scoring and resume analysis. <br><br> **Tech:** React, Node.js, Express, MySQL, Groq API, LLaMA | Browser-based Java learning platform with an integrated online compiler. <br><br> **Tech:** Java, Spring Boot, MySQL, Monaco Editor | Minimalist and responsive personal developer portfolio site. <br><br> **Tech:** React, TypeScript, Vite, Tailwind |
 
 ---
 
 ### 💼 Experience
 
-**Software Engineer Intern** — Ideactra Technologies
-- Working on real-world software engineering tasks in a remote setup
-
-**Full Stack Development Trainer** — Angel Wallah
-- Mentored students in Full Stack Development (React, Node.js, Express, MongoDB, MySQL)
-- Conducted practical coding sessions and guided real-world projects
-
-**Machine Learning Intern** — Skillbit Technologies
-- Built and deployed ML projects: Iris Flower Classifier (~93% accuracy), Spam Classifier (~98% accuracy, Naive Bayes + TF-IDF)
-- Worked across data cleaning, feature engineering, model training & evaluation
+* **Software Engineer Intern** @ Ideactra Technologies
+  * Building and deploying scalable software solutions in a remote setup.
+* **Full Stack Development Trainer** @ Angel Wallah
+  * Mentored students in MERN stack + MySQL; guided hands-on real-world projects.
+* **Machine Learning Intern** @ Skillbit Technologies
+  * Built end-to-end ML models (Iris Classifier 93%, Spam Classifier 98% with Naive Bayes + TF-IDF). Handled data cleaning to evaluation.
 
 ---
 
 ### 🛠️ Tech Stack
 
-**Languages**
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+**Languages:** <br>
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=flat-square&logo=javascript) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript)
 
-**Frontend**
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react) ![NextJS](https://img.shields.io/badge/NextJS-black?style=for-the-badge&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+**Frontend:** <br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react) ![NextJS](https://img.shields.io/badge/NextJS-black?style=flat-square&logo=next.js) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 
-**Backend**
-![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=for-the-badge&logo=node.js) ![Express](https://img.shields.io/badge/Express-black?style=for-the-badge&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=springboot)
+**Backend & Databases:** <br>
+![NodeJS](https://img.shields.io/badge/NodeJS-339933?style=flat-square&logo=node.js) ![Express](https://img.shields.io/badge/Express-black?style=flat-square&logo=express) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi) ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=springboot) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)
 
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-
-**Machine Learning / AI**
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy) ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge) ![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge) ![LangChain](https://img.shields.io/badge/LangChain-black?style=for-the-badge) ![LangGraph](https://img.shields.io/badge/LangGraph-5A4FCF?style=for-the-badge) ![CrewAI](https://img.shields.io/badge/CrewAI-EA4335?style=for-the-badge)
-
-**Tools**
-Git • GitHub • Docker • Postman • VS Code • AWS • Vercel • Render • Claude Code / Cursor
+**AI / ML:** <br>
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy) ![LangChain](https://img.shields.io/badge/LangChain-black?style=flat-square) ![CrewAI](https://img.shields.io/badge/CrewAI-EA4335?style=flat-square)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=ayushsupath&theme=tokyonight" alt="streak stats" />
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ayushsupath&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=ayushsupath&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
+<br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayushsupath&style=flat-square&color=blue" alt="Profile Views" />
 </p>
-
----
-
-### 🌐 Connect With Me
-
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayushsupath1829@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushsupath/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=googlechrome)](https://portfolio-rust-eta-76.vercel.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)](https://github.com/ayushsupath)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode)](https://leetcode.com/)
-
----
-
-![Profile Views](https://komarev.com/ghpvc/?username=ayushsupath&style=for-the-badge)
-
-⭐ Thanks for visiting my profile! If you like my work, consider giving a star to my repositories.
